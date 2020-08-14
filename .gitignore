@@ -106,3 +106,6 @@ dist
 
 #mongo db's
 db/
+
+# VSCode Debug Configuration
+.vscode/
